@@ -12,7 +12,7 @@
 ---
 
 > [!WARNING]
-> This repository is built around `NGF` — [Next-Generation-Fetch Core](https://github.com/J4ck3LSyN-Gen2/NGF).  
+> This repository is built around `NGF` - [Next-Generation-Fetch Core](https://github.com/J4ck3LSyN-Gen2/NGF).  
 > You must have NGF installed to use the harvested proxy databases.
 
 ## How-To-Use
