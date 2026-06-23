@@ -19,4 +19,5 @@
 
 1. Either `git clone` the entire repo, or I recommend pulling which ever index you wish via `wget` and work from there.
 2. Un-tar the archive `tar -xzf archive.tar.gz`
-3. Pass into NGF `python3 ngfXXX.py --db-import <whatever-the-name>.json` and enjoy.
+3. Pass it in `python3 ngfXXX.py --db-import <whatever-the-name>.json` and enjoy.
+4. Validate them `python3 ngfXXX.py --validate-json <whatever-the-name>.json`. 
